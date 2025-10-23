@@ -10,8 +10,8 @@ Each domain aligns with RHCSA objectives and includes step-by-step labs, automat
 | Domain | Topic | Status | Folder |
 |:--|:--|:--|:--|
 | 1 | User & Group Management | ✅ Completed | [View Lab](./domain1-user-group-management) |
-| 2 | File Management & Permissions | 🔄 In Progress | — |
-| 3 | Process & Service Management | ⏳ Pending | — |
+| 2 | File Management & Permissions | ✅ Completed | [View Lab](./domain2-file-management-permissions) |
+| 3 | Process & Service Management | 🔄 In Progress | — |
 | 4 | Boot, Targets & Recovery | ⏳ Pending | — |
 | 5 | Networking & Firewall | ⏳ Pending | — |
 | 6 | Security & SELinux | ⏳ Pending | — |
@@ -20,6 +20,8 @@ Each domain aligns with RHCSA objectives and includes step-by-step labs, automat
 | 9 | Automation (Bash & Cron) | ⏳ Pending | — |
 | 10 | Performance & Monitoring | ⏳ Planned | — |
 
----
+
+---Updated main README – Domain 2 completed
+
 
 
