@@ -25,3 +25,29 @@ Each domain aligns with RHCSA objectives and includes step-by-step labs, automat
 
 
 
+---
+
+## 📸 Screenshots – File Management & Permissions Lab
+
+### Step 1 – Verify System Info and Department Structure
+![Verify System](./screenshots/01_verify_system.png)
+
+### Step 2 – File and Directory Creation
+![Created Files](./screenshots/02_created_files.png)
+
+### Step 3 – Permission and Ownership Changes
+![Permissions](./screenshots/03_permissions.png)
+
+### Step 4 – ACL and Sticky Bit Configuration
+![ACL StickyBit](./screenshots/04_acl_stickybit.png)
+
+### Step 5 – Archiving and Compression
+![Archive Compress](./screenshots/05_archive_compress.png)
+
+### Step 6 – Immutable File Protection
+![Immutable Files](./screenshots/06_immutable.png)
+
+### Step 7 – Hard and Symbolic Links
+![Links](./screenshots/07_links.png)
+
+
